@@ -1,4 +1,7 @@
-# cuba [![npm Version](https://badgen.net/npm/v/cuba)](https://www.npmjs.org/package/cuba) [![Build Status](https://badgen.net/travis/yuanqing/cuba?label=build)](https://travis-ci.org/yuanqing/cuba) [![Bundle Size](https://badgen.net/bundlephobia/minzip/cuba)](https://bundlephobia.com/result?p=cuba)
+# cuba-sheet [![npm Version](https://badgen.net/npm/v/cuba)](https://www.npmjs.org/package/cuba) [![Build Status](https://badgen.net/travis/yuanqing/cuba?label=build)](https://travis-ci.org/yuanqing/cuba) [![Bundle Size](https://badgen.net/bundlephobia/minzip/cuba)](https://bundlephobia.com/result?p=cuba)
+
+This is a clone of https://github.com/yuanqing/cuba with some latest fixes
+
 
 > Google Sheets + SQL = JSON
 

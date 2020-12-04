@@ -1,12 +1,12 @@
 {
-  "name": "cuba",
-  "version": "0.2.0",
+  "name": "cuba-sheet",
+  "version": "0.2.1",
   "description": "Google Sheets + SQL = JSON",
-  "author": "Lim Yuan Qing",
+  "author": "Max Starikov",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/yuanqing/cuba.git"
+      "url": "git://github.com:maxistar/cuba.git"
   },
   "main": "src/index.js",
   "browser": "src/browser.js",
